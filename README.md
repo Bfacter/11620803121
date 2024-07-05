@@ -40,5 +40,6 @@ The backend automates access token handling, ensuring seamless operation by refr
 
 By following these steps, you can set up and run both frontend and backend components locally, enabling efficient browsing and comparison of top products from multiple e-commerce platforms. Adjust configurations for production deployment and security as needed.
 ![SS](https://github.com/Bfacter/11620803121/assets/98310238/864c6479-8962-4c64-95ad-a1cd043638f9)
-![WhatsApp Image 2024-07-05 at 14 19 03](https://github.com/Bfacter/11620803121/assets/98310238/70ad6a0a-b49f-42fb-b072-e43e2a3eb050)
+
+![WhatsApp Image 2024-07-05 at 14 23 36](https://github.com/Bfacter/11620803121/assets/98310238/214586bf-b6b7-4506-9bf0-186dbd3b490b)
 
