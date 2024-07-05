@@ -39,3 +39,4 @@ Access Token Management:
 The backend automates access token handling, ensuring seamless operation by refreshing tokens before expiry. This approach guarantees continuous access to product data without user intervention, enhancing reliability and user experience.
 
 By following these steps, you can set up and run both frontend and backend components locally, enabling efficient browsing and comparison of top products from multiple e-commerce platforms. Adjust configurations for production deployment and security as needed.
+![SS](https://github.com/Bfacter/11620803121/assets/98310238/864c6479-8962-4c64-95ad-a1cd043638f9)
